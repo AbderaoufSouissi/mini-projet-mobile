@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartExpense</string>
+
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dont_have_account">Don\'t have an account? Sign up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="security_question">Security Question</string>
+    <string name="security_answer">Security Answer</string>
+    <string name="new_password">New Password</string>
+    <string name="verify_answer">Verify Answer</string>
+    <string name="logout">Logout</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="today_spending">Today\'s Spending</string>
+    <string name="week_spending">This Week</string>
+    <string name="month_spending">This Month</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_all_expenses">View All Expenses</string>
+    <string name="statistics">Statistics</string>
+    <string name="welcome">Welcome, %s!</string>
+
+    <!-- Expenses -->
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="all_categories">All Categories</string>
+    <string name="no_expenses">No expenses found</string>
+    <string name="add_your_first_expense">Add your first expense!</string>
+
+    <!-- Categories -->
+    <string name="food">Food</string>
+    <string name="transport">Transport</string>
+    <string name="shopping">Shopping</string>
+    <string name="bills">Bills</string>
+    <string name="other">Other</string>
+
+    <!-- Charts -->
+    <string name="category_distribution">Category Distribution</string>
+    <string name="spending_trend">Spending Trend</string>
+    <string name="no_data">No data available</string>
+
+    <!-- Validation Messages -->
+    <string name="error_email_required">Email is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_username_required">Username is required</string>
+    <string name="error_amount_required">Amount is required</string>
+    <string name="error_invalid_amount">Invalid amount</string>
+    <string name="error_category_required">Category is required</string>
+    <string name="error_description_required">Description is required</string>
+    <string name="error_security_question_required">Security question is required</string>
+    <string name="error_security_answer_required">Security answer is required</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">Login successful</string>
+    <string name="registration_success">Registration successful</string>
+    <string name="expense_added">Expense added successfully</string>
+    <string name="expense_updated">Expense updated successfully</string>
+    <string name="expense_deleted">Expense deleted successfully</string>
+    <string name="password_reset_success">Password reset successful</string>
+
+    <!-- Error Messages -->
+    <string name="login_failed">Invalid email or password</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="email_already_exists">Email already exists</string>
+    <string name="incorrect_security_answer">Incorrect security answer</string>
+    <string name="user_not_found">User not found</string>
+
+    <!-- Dialogs -->
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this expense?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm_logout">Confirm Logout</string>
+    <string name="confirm_logout_message">Are you sure you want to logout?</string>
+
+    <!-- Hints -->
+    <string name="hint_enter_email">Enter your email</string>
+    <string name="hint_enter_password">Enter your password</string>
+    <string name="hint_enter_username">Enter your username</string>
+    <string name="hint_enter_amount">Enter amount</string>
+    <string name="hint_enter_description">Enter description</string>
+    <string name="hint_search_expenses">Search expenses...</string>
+
+    <!-- Security Questions -->
+    <string name="sq_pet_name">What is your pet\'s name?</string>
+    <string name="sq_birth_city">What city were you born in?</string>
+    <string name="sq_favorite_food">What is your favorite food?</string>
+    <string name="sq_mother_maiden_name">What is your mother\'s maiden name?</string>
+    <string name="sq_favorite_color">What is your favorite color?</string>
+</resources>
+
